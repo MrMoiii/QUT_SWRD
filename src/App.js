@@ -35,7 +35,7 @@ export default function App() {
           <Link to="/book">book</Link>
         </li>
         <li>
-          <Link to="/about">about</Link>
+          <Link to="/about">abouts</Link>
         </li>
       </ul>
       <Footer />
