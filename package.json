@@ -5,11 +5,15 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+<<<<<<< HEAD
     "child_process": "^1.0.2",
     "crypto": "^1.0.1",
     "inquirer": "^9.1.5",
     "loader-utils": "3.2.1",
     "mysql": "^2.18.1",
+=======
+    "loader-utils": "3.2.1",
+>>>>>>> c1b8001232de3d7393b27a107b1c0524c90d3929
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-router-dom": "^6.9.0",
@@ -17,7 +21,10 @@
   },
   "devDependencies": {
     "@babel/runtime": "7.13.8",
+<<<<<<< HEAD
     "node-libs-browser": "^2.2.1",
+=======
+>>>>>>> c1b8001232de3d7393b27a107b1c0524c90d3929
     "typescript": "4.1.3"
   },
   "scripts": {
